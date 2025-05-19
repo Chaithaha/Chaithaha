@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **chaitknight@proton.me**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chaitanya-gehi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-gehi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/chaitlol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="chaitlol" height="30" width="40" /></a>
