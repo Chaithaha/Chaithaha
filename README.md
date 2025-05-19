@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chait</h1>
+<h1 align="center">Hey, This is Chait</h1>
 <h3 align="center">An international student at humber pursuing the web development program, trying to apply business logic and acumen to the web development field.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, C#, SQL**
